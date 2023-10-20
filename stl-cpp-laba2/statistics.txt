@@ -1,0 +1,4 @@
+Average: 42.949
+Min: 1.38
+Max: 89.27
+Sum of elements : 858.98
